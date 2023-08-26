@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../results-summary-component-main-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "results-summary-component-main",
+		"liveServer.settings.port": 5501
+	}
+}
